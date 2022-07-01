@@ -3,4 +3,4 @@ línea2
 línea3
 línea4
 línea5
-línea6 --> Terminé de revisar combios. Me regreso a mi stash con git stash pop
+línea6 Es necesario guardar provicionalmente. Hago git stash
